@@ -7,5 +7,6 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Repetitions | Introductory Problems | [ C++ ](https://github.com/Adi-1805/CSES-Solutions/blob/main/Introductory_Problems/Repetitions/Repetitions.cpp) |
 | Weird Algorithm | Introductory Problems | [ C++ ](https://github.com/Adi-1805/CSES-Solutions/blob/main/Introductory_Problems/Weird_Algorithm/Weird_Algorithm.cpp) |
 | Apple Division | Introductory Problems | [ C++ ](https://github.com/Adi-1805/CSES-Solutions/blob/main/Introductory_Problems/Apple_Division/Apple_Division.cpp) |
