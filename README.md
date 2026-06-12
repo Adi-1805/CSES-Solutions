@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Sliding Window Sum | Sliding Window Problems | [ C++ ](https://github.com/Adi-1805/CSES-Solutions/blob/main/Sliding_Window_Problems/Sliding_Window_Sum/Sliding_Window_Sum.cpp) |
 | Trailing Zeros | Introductory Problems | [ C++ ](https://github.com/Adi-1805/CSES-Solutions/blob/main/Introductory_Problems/Trailing_Zeros/Trailing_Zeros.cpp) |
 | Bit Strings | Introductory Problems | [ C++ ](https://github.com/Adi-1805/CSES-Solutions/blob/main/Introductory_Problems/Bit_Strings/Bit_Strings.cpp) |
 | Two Sets | Introductory Problems | [ C++ ](https://github.com/Adi-1805/CSES-Solutions/blob/main/Introductory_Problems/Two_Sets/Two_Sets.cpp) |
